@@ -1,0 +1,16 @@
+/bin/
+/composer.phar
+/vendor/
+#PHPStorm folder
+/.idea
+#backup files from unix editors
+*~
+#merge files
+*.orig
+#Ignoring shell scripts in root folder
+/*.sh
+#Ignoring MacDS_Store files
+.DS_Store
+#Ignoring ant build xml
+/.ant-targets-build.xml
+
