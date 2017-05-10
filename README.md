@@ -2,4 +2,4 @@
 
 Given we have 100 urls
 When I fetch them
-Then I should see 100 page contents retrieved
+Then I should see 100 page contents retrieved and saved
